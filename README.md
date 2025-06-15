@@ -6,10 +6,28 @@ This project is built using the **Sakila Sample Database**, a fictional movie re
 
 ## Objective
 
-- Identify top performing movies  
-- Analyze most active customers  
-- Calculate revenue by store  
-- Understand rental patterns by month  
+This project aims to explore the Sakila movie rental database to:
+
+- View customer details
+
+- Identify top 5 most rented movies
+
+- Analyze monthly rental trends
+
+- Calculate revenue by each store
+
+- Find the most active customers
+
+- List films with ‘Behind the Scenes’ features
+
+- Count inactive customers
+
+- Identify top 5 customers by total payments
+
+- Calculate average rental duration by film rating
+
+- Analyze revenue by film category
+
 
 ---
 
