@@ -31,7 +31,7 @@ This project aims to explore the Sakila movie rental database to:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 -  MySQL Workbench  
 -  Sakila Sample Database  
